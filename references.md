@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+This is text that will confiict with the main branch content.
